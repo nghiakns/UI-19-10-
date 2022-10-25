@@ -1,0 +1,16 @@
+PODS:
+  - AlignedCollectionViewFlowLayout (1.1.2)
+
+DEPENDENCIES:
+  - AlignedCollectionViewFlowLayout
+
+SPEC REPOS:
+  trunk:
+    - AlignedCollectionViewFlowLayout
+
+SPEC CHECKSUMS:
+  AlignedCollectionViewFlowLayout: ee2ef451e741ec08f8e0967d828001e2f051c20a
+
+PODFILE CHECKSUM: 0146526f8c6ab50bd628d8cf382c44e9d69e7a7b
+
+COCOAPODS: 1.11.3
